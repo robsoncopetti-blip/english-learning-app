@@ -1,0 +1,17 @@
+# English Learning App - Dependências
+# Este arquivo lista todas as bibliotecas Python necessárias para o projeto
+
+# Flet - Framework principal para UI multiplataforma
+# Flet permite criar apps para Android, iOS, Windows, Web usando Python
+# Baseado em Flutter,提供 performance nativa e UI moderna
+flet>=0.21.0
+
+# Google APIs - Para autenticação e integrações
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.100.0
+
+# Outras dependências podem ser adicionadas conforme necessário:
+# - requests: para chamadas de API
+# - PIL/Pillow: para processamento de imagens
+# - pytest: para testes automatizados
